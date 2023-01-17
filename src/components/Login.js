@@ -2,7 +2,7 @@ import React from "react";
 import { Button } from "@material-ui/core";
 import "./Login.css";
 import { auth, provider } from "../firebase";
-import video from "../images/Meeting-1.gif";
+import video from "../images/Meeting-11.gif";
 
 function Login() {
   // const [{}, dispatch]= useStateValue();

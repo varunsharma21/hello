@@ -1,6 +1,7 @@
 .call {
   position: relative; /* To make it a "positioned" container so children layout works */
   height: calc(100% - 60px); /* Space for the tray */
+  background-color: #222e35;
 }
 
 .large-tiles {
